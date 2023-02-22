@@ -11,11 +11,11 @@ class Post extends Model
 
     protected $table = 'posts';
 
-    const TABLE    = "posts";
+    const TABLE      = "posts";
 
-    const DELETED  = 0;
+    const DELETED    = 0;
 
-    const ALIVE    = 1;
+    const ALIVE      = 1;
 
     public static function getAlivePosts()
     {

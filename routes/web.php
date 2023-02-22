@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\System\PostController;
 use App\Http\Controllers\System\SiteController;
+use App\Http\Controllers\System\VideoController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -31,9 +32,16 @@ Route::controller(PostController::class)
     ->as('post-')
     ->group(function () {
 
-
-        Route::get('/', 'index')->name('index');
         Route::any('/{slug}', 'show')->name('show');
 
+    });
+
+# Routes posts
+Route::controller(VideoController::class)
+    ->prefix('videos')
+    ->as('video-')
+    ->group(function () {
+
+        Route::any('show/{id}', 'show')->name('show');
 
     });

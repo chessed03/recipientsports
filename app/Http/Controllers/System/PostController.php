@@ -9,17 +9,6 @@ use Illuminate\Http\Request;
 class PostController extends Controller
 {
 
-    public function index( Request $request )
-    {
-
-        $posts = Post::getAlivePosts();
-
-        return view('system.posts.index',[
-            'posts' => $posts
-        ]);
-
-    }
-
     public function show( Request $request )
     {
 
