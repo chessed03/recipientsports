@@ -4947,7 +4947,7 @@
                             <div class="post-preview-img-wrap">
                                 <!-- POST PREVIEW IMG -->
                                 <figure class="post-preview-img liquid">
-                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-4.jpeg') }}" alt="post-02">
+                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-11.jpg') }}" alt="post-02">
                                 </figure>
                                 <!-- /POST PREVIEW IMG -->
                             </div>
@@ -5007,7 +5007,7 @@
                             <div class="post-preview-img-wrap">
                                 <!-- POST PREVIEW IMG -->
                                 <figure class="post-preview-img liquid">
-                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-9.jpg') }}" alt="post-08">
+                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-12.jpg') }}" alt="post-08">
                                 </figure>
                                 <!-- /POST PREVIEW IMG -->
 
@@ -5043,7 +5043,7 @@
                             <div class="post-preview-img-wrap">
                                 <!-- POST PREVIEW IMG -->
                                 <figure class="post-preview-img liquid">
-                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-6.webp') }}" alt="post-12">
+                                    <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-14.jpg') }}" alt="post-12">
                                 </figure>
                                 <!-- /POST PREVIEW IMG -->
 
@@ -5295,7 +5295,7 @@
                                 <div class="post-preview-img-wrap">
                                     <!-- POST PREVIEW IMG -->
                                     <figure class="post-preview-img liquid">
-                                        <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-6.webp') }}" alt="post-21">
+                                        <img src="{{ asset('themes/pixel-diamont-one/img/customs/img-14.jpg') }}" alt="post-21">
                                     </figure>
                                     <!-- /POST PREVIEW IMG -->
                                 </div>
