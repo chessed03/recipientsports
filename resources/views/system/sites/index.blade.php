@@ -8,7 +8,7 @@
     <!-- favicon -->
     <link rel="icon" href="{{ asset('themes/pixel-diamont-one/img/favicon.ico') }}">
 
-    <title>Pixel Diamond | Home</title>
+    <title>Lider Sport</title>
 
 </head>
 <body>
@@ -537,8 +537,8 @@
         <!-- /SEARCH POPUP OPEN -->
 
         <!-- LOGO IMG -->
-        <figure class="logo-img">
-            <img src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
+        <figure>
+            <img style="width: 200px;" src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
         </figure>
         <!-- /LOGO IMG -->
 
@@ -1831,15 +1831,12 @@
             <div class="logo">
                 <!-- LOGO IMG -->
                 <figure class="logo-img">
-                    <img src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
+                    <img style="width: 160px" src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
                 </figure>
                 <!-- /LOGO IMG -->
 
                 <!-- LOGO TEXT -->
-                <div class="logo-text">
-                    <h2 class="logo-title">Pixel<span class="highlight">Diamond</span></h2>
-                    <p class="logo-info">The Latest Gaming News</p>
-                </div>
+               
                 <!-- /LOGO TEXT -->
             </div>
             <!-- /LOGO -->
@@ -6543,10 +6540,7 @@
                     <!-- /LOGO IMG -->
 
                     <!-- LOGO TEXT -->
-                    <div class="logo-text">
-                        <h2 class="logo-title">Pixel<span class="highlight">Diamond</span></h2>
-                        <p class="logo-info">The Latest Gaming News</p>
-                    </div>
+                    
                     <!-- /LOGO TEXT -->
                 </div>
                 <!-- /LOGO -->

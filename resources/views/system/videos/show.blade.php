@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="{{ asset('themes/pixel-diamont-one/css/style.min.css') }}">
     <!-- favicon -->
     <link rel="icon" href="{{ asset('themes/pixel-diamont-one/img/favicon.ico') }}">
-    <title>Pixel Diamond | Post Video</title>
+    <title>Lider Sport</title>
 </head>
 <body>
 
@@ -1829,7 +1829,7 @@
         <div class="logo">
             <!-- LOGO IMG -->
             <figure class="logo-img">
-                <img src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
+                    <img style="width: 160px" src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
             </figure>
             <!-- /LOGO IMG -->
 
