@@ -1831,7 +1831,7 @@
             <div class="logo">
                 <!-- LOGO IMG -->
                 <figure class="logo-img">
-                    <img style="width: 160px" src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
+                    <img style="width: 160px; margin-top: -6px;" src="{{ asset('themes/pixel-diamont-one/img/brand/logo.png') }}" alt="Logo">
                 </figure>
                 <!-- /LOGO IMG -->
 
